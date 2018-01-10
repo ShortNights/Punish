@@ -1,2 +1,0 @@
-# Punish
-Punishment system
